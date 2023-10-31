@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+}
+.list-item {
+  list-style: none;
+  border: 2px solid #b5b7c4;
+  border-radius: 8px;
+  padding: 8px;
+  margin-left: 6px;
+  margin-bottom: 6px;
+}
+.star-button {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-weight: 600;
+}
+.date {
+  color: #b5b7c4;
+}
